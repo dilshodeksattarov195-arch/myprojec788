@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservtringify",
+        "uuid": 7875272,
+        "checksum": "mwpb8o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
